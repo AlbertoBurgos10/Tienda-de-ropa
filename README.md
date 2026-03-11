@@ -57,4 +57,8 @@ Importación de Contenido: (Opcional) Usar Templately para importar los layouts 
 -Mejor manejo de la interfaz de WordPress
 
 ![Página de inicio](docs/Carrito.png)
+![Página de inicio](docs/Inicio1.png)
+![Página de inicio](docs/Inicio3.png)
+![Página de inicio](docs/Producto.png)
+![Página de inicio](docs/Tienda2.png)
 
